@@ -1,0 +1,1 @@
+A prefix trie written in Golang. Supports insertion and deletion, and querying for the existence of words and words by prefix. 
